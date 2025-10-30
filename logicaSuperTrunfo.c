@@ -17,11 +17,7 @@
          PIB_per_Capita_carta1 =(float)PIB_carta1 / população_carta1;
          
         
-         /// ------- Area para atribuir condições ------////
-         
-          
-          
-         
+     
          //--------------declarando variavel carta2--------///
          
          char estado_carta2;
@@ -135,10 +131,10 @@
          
          if(PIB_per_Capita_carta1 > PIB_per_Capita_carta2)
          {
-         printf("A carta 1 tem maior PIB per Capita. \nParabéns vc e campeã\n");
+         printf("A carta 1 tem maior PIB per Capita. \nParabéns vc e a campeã\n");
          }
          else{
-         printf("A carta 2 tem maior PIB per Capita. \nParabéns vc e campeã\n");
+         printf("A carta 2 tem maior PIB per Capita. \nParabéns vc e a campeã\n");
          }
          
         
